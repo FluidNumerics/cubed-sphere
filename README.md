@@ -12,8 +12,9 @@ indicating compiler, compiler version, and any additional features
 
 # Usage
 
-   cubed_sphere 
-     Quick spectral-element cubed-sphere mesh generation utility.
+## cubed_sphere 
+   
+### A quick spectral-element cubed-sphere mesh generation utility.
  --------------------------------------------------------------
    Usage : cubed_sphere <inputs>                                      
  
